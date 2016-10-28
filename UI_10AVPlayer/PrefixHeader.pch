@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  UI_10AVPlayer
+//
+//  Created by 黄明远 on 16/10/19.
+//  Copyright © 2016年 郑小燕. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "Header.h"
+
+#import "SDAutoLayout.h"
+#import "PlayMusicViewController.h"
+#import <MBProgressHUD.h>
+#import <UIImageView+WebCache.h>
+#import "NSString+time.h"
+
+
+
+#endif /* PrefixHeader_pch */
